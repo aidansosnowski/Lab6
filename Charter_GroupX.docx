@@ -1,31 +1,9 @@
 Group 2
 <group members full name>
+Trever Fuhrer
+Aidan Sosnowski
 Minjun Kim
-1. Availability for meeting expectations
-- 2~3 hours week
-2. Response time to communication expectations
-- 9~5 PM
-3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it
-in to github" is not done.)
-- check in github, document updated
-4. Scrum meeting format/frequency and distribution of documentation tasks (meeting
-minutes, updating task board)
-- Discord for 30 minitues
-5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation
-updates)
-- determine after meeting
-6. if you adopt such a policy during the initial meeting, put it here
-- commit message
-7. Procedure for handling a member who is not meeting expectations
-- send a email
-8. must include at least 3 actions before involving the instructor
-- send a email, team meeting, specific date
-9. Signatures: each member must sign their name by typing their name at the bottom of the
-document.
-- Minjun Kim
-Minjun Kim  
-Aidan Sosnowski  
-Trever Fuhrer  
+  
 
 1. Availability for meeting expectations  
 - Minjun: 2–3 hours per week  
@@ -50,9 +28,11 @@ Trever Fuhrer
 - Document difficult-to-understand sections.  
 - Check with all members before implementing new policies.  
 - Maintain a shared document for policies.  
+- determine after meeting
 
 6. Initial policies adopted  
-- Comment on confusing code.  
+- Comment on confusing code.
+- Commit Message  
 
 7. Procedure for handling a member who is not meeting expectations  
 - Contact the individual first and discuss the issue.  
@@ -63,6 +43,7 @@ Trever Fuhrer
 1. Send a message or text.  
 2. Call them.  
 3. Discuss the issue in class.  
+4. send a email, team meeting, specific date
 
 9. Signatures  
 - Aidan Sosnowski  

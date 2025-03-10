@@ -1,15 +1,36 @@
 <group name>
+
+
 <group members full name>
+Trever
+
 1. Availability for meeting expectations
+Anytime
+
 2. Response time to communication expectations
+Try to respond within 3 days
+
 3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it
 in to github" is not done.)
+A task is complete once its completes the task and is merged with main
+
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting
 minutes, updating task board)
+Meeting should be at least 30 min
+
 5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation
 updates)
+Check with everyone, make a document of policies
+
 6. if you adopt such a policy during the initial meeting, put it here
+Comment confusing code
+
 7. Procedure for handling a member who is not meeting expectations
+Talk to them and see whats up first
+
 8. must include at least 3 actions before involving the instructor
+Talk, Warn, Help, Instructor
+
 9. Signatures: each member must sign their name by typing their name at the bottom of the
 document.
+Trever Fuhrer
